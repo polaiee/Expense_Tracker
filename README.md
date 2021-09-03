@@ -10,7 +10,7 @@
 
 
 ### Screenshots  ##
-![Demo Expense Tracker application](./ss1.png)(./ss2.png)(./ss3.png)
+![Demo Expense Tracker application](./ExpenseTracker.png)
 
 ---
 ### Description  ##
