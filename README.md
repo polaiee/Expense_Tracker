@@ -8,6 +8,11 @@
 ![](https://img.shields.io/badge/Deployed_on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-blue?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+
+### Screenshots  ##
+![Demo Expense Tracker application](./ss1.png)
+
+---
 ### Description  ##
 <p>
 It is a voice powered budget tracking app created using React, Material UI and Speechify that allows you to add income and expenses across a variety of categories.
